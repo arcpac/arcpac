@@ -2,9 +2,12 @@
 
 **About me**
 
-- 💼 I worked as a Software Engineer, Systems Analyst
+- 💼 I worked as a Software Engineer and Systems Analyst
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📈 What I am currently doing | learning | keeping myself busy are:
+  > **Training for** Junior Cybersecurity Analyst certification 🚧
+  > Coding 👨‍💻
+  > Ethical hacking and smashing Arduino device 
 
 - ❤️ I love writing programs, study cybersecurity and building fun experiments
 
