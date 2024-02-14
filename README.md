@@ -6,10 +6,9 @@
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-- ❤️ I love writing programs, study cybersecurity and building fun experiments 
+- ❤️ I love writing programs, study cybersecurity and building fun experiments
 
 - 💬 Ask me about anything [here](antonraphaelcaballes@gmail.com)
-
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -62,5 +61,8 @@
   </tr>
 </table>
 
+<h2 align="left" id="macropower-tech">Education</h2>
 
-  Take a look at what we've built
+  <img src="./img/construction.svg" height="100" alt="NodeRED" />
+
+Take a look at what we've built
