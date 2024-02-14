@@ -8,7 +8,7 @@
 
 - ❤️ I love writing programs, study cybersecurity and building fun experiments
 
-- 💬 Ask me about anything [here](antonraphaelcaballes@gmail.com)
+- 💬 Take a look at my [portfolio here](https://arcpac.github.io/)
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -65,4 +65,3 @@
 
   <img src="./img/construction.svg" height="100" alt="NodeRED" />
 
-Take a look at what we've built
