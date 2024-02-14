@@ -19,49 +19,43 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="NodeRED" />
+        <img src="./img/react.svg" width="48" height="48" alt="NodeRED" />
       </a>
       <br>NodeJS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="NodeRED" />
+        <img src="./img/react.svg" width="48" height="48" alt="NodeRED" />
       </a>
       <br>ReactJS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="NodeRED" />
+        <img src="./img/javascript-js.svg" width="48" height="48" alt="NodeRED" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="NodeRED" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/mern.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>MERN
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/php.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>PHP
     </td>
     <td align="center"  width="96">
          <a href="#macropower-tech" >
-        <img src="" width="48" height="48" alt="NodeRED" />
+        <img src="./img/github.svg" width="48" height="48" alt="NodeRED" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="" width="48" height="48" alt="NodeRED" />
+        <img src="./img/node-red.svg" width="48" height="48" style="color: red;" alt="NodeRED" />
       </a>
       <br>NodeRED
     </td>
