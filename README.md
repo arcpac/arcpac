@@ -19,7 +19,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/react.svg" width="48" height="48" alt="NodeRED" />
+        <img src="./img/node-js.svg" width="48" height="48" alt="NodeRED" />
       </a>
       <br>NodeJS
     </td>
