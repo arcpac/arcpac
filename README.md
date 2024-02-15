@@ -5,9 +5,10 @@
 - 💼 I worked as a Software Engineer and Systems Analyst
 
 - 📈 What I am currently doing | learning | keeping myself busy are:
+
   > **Training for** Junior Cybersecurity Analyst certification 🚧
   > Coding 👨‍💻
-  > Ethical hacking and smashing Arduino device 
+  > Ethical hacking and smashing Arduino device
 
 - ❤️ I love writing programs, study cybersecurity and building fun experiments
 
@@ -15,7 +16,57 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-> Tools and languages I like to work with.
+> Cyber security | Hacking
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/burp.svg" width="48" height="48" alt="Burp Suite" />
+      </a>
+      <br>Burp Suite
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/wireshark.svg" width="48" height="48" alt="Wireshark" />
+      </a>
+      <br>Wireshark
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/kali.svg" width="48" height="48" alt="Kali Linux" />
+      </a>
+      <br>Kali Linux
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/nmap.svg" width="48" height="48" alt="NMAP" />
+      </a>
+      <br>NMAP
+    </td>
+        <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/nmap.svg" width="48" height="48" alt="NMAP" />
+      </a>
+      <br>NMAP
+    </td>
+  </tr>
+</table>
+
+```mermaid
+graph LR;
+    A[Cyber Security] --> B[Identify];
+    B --> C[Response];
+    C --> D[Assess];
+```
+
+> Software development
 
 <table>
   <tr>
@@ -67,4 +118,3 @@
 <h2 align="left" id="macropower-tech">Education</h2>
 
   <img src="./img/construction.svg" height="100" alt="NodeRED" />
-
