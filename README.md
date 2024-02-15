@@ -12,7 +12,7 @@
 
 - ❤️ I love writing programs, study cybersecurity and building fun experiments
 
-- I am practical and straightforward.
+- I am straightforward.
 
 - 💬 Take a look at my [portfolio here](https://arcpac.github.io/)
 
