@@ -55,13 +55,6 @@
   </tr>
 </table>
 
-```mermaid
-graph LR;
-    A[Cyber Security] --> B[Identify];
-    B --> C[Response];
-    C --> D[Assess];
-```
-
 <h2 align="left" id="macropower-tech">Software Development</h2>
 
 > I build web applications using these tools
