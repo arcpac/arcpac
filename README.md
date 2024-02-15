@@ -12,11 +12,13 @@
 
 - ❤️ I love writing programs, study cybersecurity and building fun experiments
 
+- I am practical and straightforward.
+
 - 💬 Take a look at my [portfolio here](https://arcpac.github.io/)
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-> Cyber security | Hacking
+> I am a cyber security enthusiast and I play with these tools. I can share with you my project in cyber security.
 
 <table>
   <tr>
@@ -50,12 +52,6 @@
       </a>
       <br>NMAP
     </td>
-        <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/nmap.svg" width="48" height="48" alt="NMAP" />
-      </a>
-      <br>NMAP
-    </td>
   </tr>
 </table>
 
@@ -66,7 +62,9 @@ graph LR;
     C --> D[Assess];
 ```
 
-> Software development
+<h2 align="left" id="macropower-tech">Software Development</h2>
+
+> I build web applications using these tools
 
 <table>
   <tr>
