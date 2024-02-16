@@ -16,8 +16,6 @@
 
 - 💬 Take a look at my [portfolio here](https://arcpac.github.io/)
 
-![Alt Text](./img/metasploit_gif.gif)
-
 <h2 align="left" id="macropower-tech">My Hacking LAB</h2>
 
 > I am a cyber security enthusiast and I play with the following tools.
@@ -56,6 +54,8 @@
     </td>
   </tr>
 </table>
+
+![Alt Text](./img/metasploit_gif.gif)
 
 <h2 align="left" id="macropower-tech">Software Development</h2>
 
