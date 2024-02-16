@@ -18,7 +18,7 @@
 
 <h2 align="left" id="macropower-tech">My Hacking LAB</h2>
 
-> I am a cyber security enthusiast and I play with these tools. I can share with you my project in cyber security.
+> I am a cyber security enthusiast and I play with the following tools.
 
 <table>
   <tr>
