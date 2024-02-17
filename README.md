@@ -2,6 +2,8 @@
 
 **About me**
 
+- 👾 CYBER SECURITY ENTHUSIAST 
+  
 - 💼 I worked as a Software Engineer and Systems Analyst
 
 - 📈 What I am currently doing | learning | keeping myself busy are:
@@ -12,9 +14,13 @@
 
 - ❤️ I love writing programs, study cybersecurity and building fun experiments
 
-- I am straightforward.
+- I am straightforward in explaning things.
 
 - 💬 Take a look at my [portfolio here](https://arcpac.github.io/)
+
+> Here is my family 👨‍👩‍👦‍👦
+
+![Alt Text](./images/family.jpeg)
 
 <h2 align="left" id="macropower-tech">My Hacking LAB</h2>
 
