@@ -20,7 +20,7 @@
 
 > Here is my family 👨‍👩‍👦‍👦
 
-![Alt Text](./images/family.jpeg)
+![Alt Text](./img/family.jpeg)
 
 <h2 align="left" id="macropower-tech">My Hacking LAB</h2>
 
