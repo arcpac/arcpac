@@ -9,16 +9,20 @@
 - 📈 What I am currently doing | learning | keeping myself busy are:
 
   > **Training for** Junior Cybersecurity Analyst certification 🚧
-  > Coding 👨‍💻
-  > Ethical hacking and smashing Arduino device
 
-- ❤️ I love writing programs, study cybersecurity and building fun experiments
+  > Coding 
+
+  > Ethical hacking
+
+  > Smashing Arduino device
+
+- ❤️ I love writing programs, learning cyber security tools and frameworks, and building fun experiments
 
 - I am straightforward in explaning things.
 
 - 💬 Take a look at my [portfolio here](https://arcpac.github.io/)
 
-> Here is my family 👨‍👩‍👦‍👦
+- I am the youngest in my family
 
 ![Alt Text](./img/family.jpg)
 
@@ -61,7 +65,7 @@
   </tr>
 </table>
 
-![Alt Text](./img/metasploit_gif.gif)
+![Alt Text](./img/workstation.gif)
 
 <h2 align="left" id="macropower-tech">Software Development</h2>
 
