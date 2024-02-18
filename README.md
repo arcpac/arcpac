@@ -24,7 +24,7 @@
 
 - I am the youngest in my family
 
-![Alt Text](./img/family.jpg)
+![Alt Text](./img/family.png)
 
 <h2 align="left" id="macropower-tech">My Hacking LAB</h2>
 
