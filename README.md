@@ -14,7 +14,7 @@
 
   > **Training for** Junior Cybersecurity Analyst certification 🚧
 
-  > Coding 
+  > Coding! (T3 Stack, MERN Stack, TypeScript, Elixir)
 
   > Ethical hacking
 
