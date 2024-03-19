@@ -2,6 +2,10 @@
 
 **About me**
 
+- 💬 Take a look at my [portfolio here](https://arcpac.github.io/)
+  
+- GitLab Repository [🚀](https://arcpac.github.io/)
+  
 - 👾 CYBER SECURITY ENTHUSIAST 
   
 - 💼 I worked as a Software Engineer and Systems Analyst
@@ -19,8 +23,6 @@
 - ❤️ I love writing programs, learning cyber security tools and frameworks, and building fun experiments
 
 - I am straightforward in explaning things.
-
-- 💬 Take a look at my [portfolio here](https://arcpac.github.io/)
 
 - I am the youngest in my family
 
