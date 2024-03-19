@@ -4,7 +4,7 @@
 
 - 💬 Take a look at my [portfolio here](https://arcpac.github.io/)
   
-- GitLab Repository [🚀](https://arcpac.github.io/)
+- GitLab Repository [🚀](https://gitlab.com/arcpac)
   
 - 👾 CYBER SECURITY ENTHUSIAST 
   
