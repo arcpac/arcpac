@@ -6,7 +6,7 @@
   
 - GitLab Repository: Checkout my GitLab projects here! [🚀](https://gitlab.com/arcpac)
   
-- 👾 CYBER SECURITY ENTHUSIAST 
+- Software Developer: NextJS, ReactJS, Typescript, NodeJS, PHP
   
 - 💼 I worked as a Software Engineer and Systems Analyst
 
@@ -18,9 +18,8 @@
 
   > Ethical hacking
 
-  > Smashing Arduino device
 
-- ❤️ I love writing programs, learning cyber security tools and frameworks, and building fun experiments
+- ❤️ I love writing code, learning cyber security tools and frameworks, and building fun experiments
 
 - I am straightforward in explaning things.
 
