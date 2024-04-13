@@ -29,6 +29,65 @@
 
 <h2 align="left" id="macropower-tech">My Hacking LAB</h2>
 
+![Alt Text](./img/workstation.gif)
+
+<h2 align="left" id="macropower-tech">Software Development</h2>
+
+> I build web applications utilising the following tools
+
+<table>
+  <tr>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/nextjs.svg" width="48" height="48" alt="Nextjs" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/node-js.svg" width="48" height="48" alt="Nodejs" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/react.svg" width="48" height="48" alt="Reactjs" />
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript-js.svg" width="48" height="48" alt="NodeRED" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/mern.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>MERN
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/php.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center"  width="96">
+         <a href="#macropower-tech" >
+        <img src="./img/github.svg" width="48" height="48" alt="NodeRED" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/node-red.svg" width="48" height="48" style="color: red;" alt="NodeRED" />
+      </a>
+      <br>NodeRED
+    </td>
+  </tr>
+</table>
+
 > I am a cyber security enthusiast and I play with the following tools.
 
 <table>
@@ -66,58 +125,6 @@
   </tr>
 </table>
 
-![Alt Text](./img/workstation.gif)
-
-<h2 align="left" id="macropower-tech">Software Development</h2>
-
-> I build web applications using these tools
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/node-js.svg" width="48" height="48" alt="NodeRED" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/react.svg" width="48" height="48" alt="NodeRED" />
-      </a>
-      <br>ReactJS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-js.svg" width="48" height="48" alt="NodeRED" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/mern.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>MERN
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/php.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center"  width="96">
-         <a href="#macropower-tech" >
-        <img src="./img/github.svg" width="48" height="48" alt="NodeRED" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/node-red.svg" width="48" height="48" style="color: red;" alt="NodeRED" />
-      </a>
-      <br>NodeRED
-    </td>
-  </tr>
-</table>
 
 <h2 align="left" id="macropower-tech">Education</h2>
 
