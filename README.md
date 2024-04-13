@@ -41,7 +41,7 @@
       <a href="#macropower-tech">
         <img src="./img/nextjs.svg" width="48" height="48" alt="Nextjs" />
       </a>
-      <br>NodeJS
+      <br>NextJS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
