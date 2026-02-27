@@ -1,7 +1,5 @@
 <div align="center">
 
-![Anton](./IMANTON.gif)
-
 # Hey, I’m Anton 👋  
 **Software Developer (Backend • APIs • Auth • Databases)**  
 Based in Australia 🇦🇺
