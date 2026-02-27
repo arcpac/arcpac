@@ -13,7 +13,7 @@ Based in Australia 🇦🇺
 
 ## About me
 
-I’m a software developer with **7 years of experience** building and supporting web apps end-to-end — from UI work to **API integration and database-backed workflows**. I care a lot about **secure, maintainable code**, testing, and shipping reliable features.  
+I’m a software developer with **7 years of experience** building and supporting web apps end-to-end from UI work to **API integration and database-backed workflows**. I care a lot about **secure, maintainable code**, testing, and shipping reliable features.  
 
 - 🔐 I enjoy building **auth flows** (JWT, refresh tokens, access control, protected routes)
 - 🧩 I like turning messy requirements into clean backend workflows
