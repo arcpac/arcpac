@@ -13,54 +13,49 @@ Based in Australia 🇦🇺
 
 ## About me
 
-I’m a software developer with **7 years of experience** building and supporting web apps end-to-end from UI work to **API integration and database-backed workflows**. I care a lot about **secure, maintainable code**, testing, and shipping reliable features.  
+I’m a software developer with **7 years of experience** building and supporting web applications end-to-end, from UI development to backend services, API integration, and database-backed workflows. I care deeply about writing **secure, maintainable code**, improving developer experience, and shipping reliable features that hold up in production.
 
-- 🔐 I enjoy building **auth flows** (JWT, refresh tokens, access control, protected routes)
-- 🧩 I like turning messy requirements into clean backend workflows
-- 🛠️ I’m happiest when I’m improving DX, stability, and long-term maintainability
+- 🔐 I enjoy building **secure AuthN/AuthZ workflows** (JWT, refresh tokens, session handling, access control, protected routes)
+- 🤖 I like working on **AI integration**, including OpenAI-powered features and practical LLM use cases inside web applications
+- 🧩 I enjoy turning messy requirements into clean, scalable backend workflows
+- 🛠️ I’m happiest when improving DX, stability, and long-term maintainability across the stack
 
 ---
 
 ## What I build (and love building)
 
-- **Authentication & security:** login/register, refresh tokens, protected routes, access control
-- **Backend APIs:** REST/GraphQL, validation, rate limiting, integrations
-- **Data workflows:** PostgreSQL/MySQL/MongoDB, schema design, migrations
-- **Frontend delivery:** React/Next.js UI that ships cleanly and stays maintainable
+- **Authentication & security:** login/register, refresh tokens, protected routes, access control, session-based workflows
+- **AI & integrations:** OpenAI API integration, LLM-powered features, third-party API integrations
+- **Backend APIs:** REST/GraphQL, validation, rate limiting, business logic, service integrations
+- **Data workflows:** PostgreSQL, MySQL, MongoDB, schema design, migrations
+- **Frontend delivery:** React/Next.js interfaces that ship cleanly and stay maintainable
 
 ---
 
 ## Tech stack
 
-**Frontend**
-- JavaScript/TypeScript, React, Next.js, React Native, HTML/CSS
+**Frontend / Mobile**
+- JavaScript, TypeScript, React, Next.js, React Native, HTML, CSS
 
 **Backend / APIs**
-- Node.js/Express, PHP, .NET Core, Elixir/Phoenix, REST, GraphQL
+- Node.js, Express, PHP, .NET Core, Elixir, Phoenix, REST APIs, GraphQL
 
-**Databases / Tools**
-- PostgreSQL, MySQL, SQL Server, MongoDB  
-- GitHub/GitLab, Docker, CI/CD
+**Databases**
+- PostgreSQL, MySQL, SQL Server, MongoDB
 
-> _Tip:_ If you want icons, you can add skillicons.dev here.
+**Tools / Delivery**
+- GitHub, GitLab, Docker, CI/CD
+
+**AI / Integrations**
+- OpenAI API integration, AI-assisted development workflows, GitHub Copilot, Cursor, CodeRabbit
 
 ---
 
 ## Featured projects
 
-> Replace links + descriptions with your real repos/pages.
-
-| Project | What it is | Highlights |
-|---|---|---|
-| **QuoteCloud** | Document editor / proposals platform | Security features, editor workflows, integrations |
-| **SplitNest** | Household expense sharing | Multi-tenant concepts, auth, DB modeling |
-| **TeamBoard** | Real-time task board | JWT auth, refresh flow, org/team structure |
-
----
+Please check my online_portfolio
 
 ## GitHub stats (optional)
-
-> Uncomment if you want these cards on your profile README.
 
 <!--
 <div align="center">
