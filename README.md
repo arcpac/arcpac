@@ -55,16 +55,6 @@ I’m a software developer with **7 years of experience** building and supportin
 
 Please check my online_portfolio
 
-## GitHub stats (optional)
-
-<!--
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arcpac&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcpac&layout=compact)
-
-</div>
--->
 
 ---
 
