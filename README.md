@@ -13,11 +13,13 @@ Based in Australia 🇦🇺
 
 ## About me
 
-I’m a software developer with **7 years of experience** building and supporting web applications end-to-end, from UI development to backend services, API integration, and database-backed workflows. I care deeply about writing **secure, maintainable code**, improving developer experience, and shipping reliable features that hold up in production.
+Software Developer with **7 years of experience**. I work primarily with **NextJs** and 
+**NodeJs**. I specialise in AI integration, and secure AuthN/AuthZ workflows. I also bring hands-on experience with **Git CI/CD, Docker, and deployment workflows** to support reliable delivery
+and maintainable production systems.
+
 
 - 🔐 I enjoy building **secure AuthN/AuthZ workflows** (JWT, refresh tokens, session handling, access control, protected routes)
 - 🤖 I like working on **AI integration**, including OpenAI-powered features and practical LLM use cases inside web applications
-- 🧩 I enjoy turning messy requirements into clean, scalable backend workflows
 - 🛠️ I’m happiest when improving DX, stability, and long-term maintainability across the stack
 
 ---
